@@ -1,0 +1,17 @@
+
+aaa/****/aa
+aa/*a*a*/
+aaaa
+/****/
+/*aa*/
+*/a
+a/**/***a
+a/**/***/a
+a/**/aa/***/a
+aaa/*/aa
+/*
+aa/*
+/*aa
+aas/*aa*/aa/*
+a/**//***a
+aa/*aa

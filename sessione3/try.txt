@@ -1,0 +1,12 @@
+do{
+	ciao = 100;
+	moltiNumeri = 000000212
+	cond ( moltiNumeri == ciao)
+	then
+		num = 12+56-90*34/12
+	else
+		bool = ((1<2)&&(0>2))||ciao<=12
+
+	when (!bool)
+		print(num >= moltiNumeri)
+} while( read(file) )
